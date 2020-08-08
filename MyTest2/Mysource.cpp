@@ -2,6 +2,6 @@
 int main()
 {
 	printf("new Git test");
-	printf("xxxxxxxx")
+	printf("xxxxxxxx");
 	return 0;
 }
